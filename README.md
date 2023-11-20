@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abderrahmaneRabeh
+- 👋 Hi, I’m @abderrahmaneRabeh / 20yo / Full-Stack developer
 - 👀 I’m interested in coding/gaming/editing 
 - 🌱 I’m currently learning react/laravel
 - 💞️ I’m looking to collaborate on any one who interested in programming 
