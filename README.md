@@ -22,6 +22,6 @@ I am open to collaborating with anyone interested in programming.
 
 ## Contact
 
-You can reach me via [LinkedIn](www.linkedin.com/in/abderrahmane-rabeh-7122b0266).
+You can reach me via [LinkedIn][abderrahmane-rabeh].
 
 Feel free to connect with me if you share similar interests or if you're interested in collaborating on projects. Let's build something amazing together!
