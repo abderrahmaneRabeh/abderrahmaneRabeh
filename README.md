@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @abderrahmaneRabeh / 20yo / Full-Stack developer
-- 👀 I’m interested in coding/gaming/editing 
-- 🌱 I’m currently learning react/laravel
-- 💞️ I’m looking to collaborate on any one who interested in programming 
-- 📫 How to reach me : this is my instagram @rabeh__03
+# Welcome! 👋
 
-<!---
-abderrahmaneRabeh/abderrahmaneRabeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+- **Name:** Abderrahmane Rabeh
+- **Age:** 20
+- **Occupation:** Full-Stack Developer
+
+## Interests
+
+- Coding
+- Gaming
+- Editing
+
+## Current Focus
+
+I am currently focusing on learning Next and Laravel.
+
+## Collaboration
+
+I am open to collaborating with anyone interested in programming.
+
+## Contact
+
+You can reach me via [LinkedIn](www.linkedin.com/in/abderrahmane-rabeh-7122b0266).
+
+Feel free to connect with me if you share similar interests or if you're interested in collaborating on projects. Let's build something amazing together!
