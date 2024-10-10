@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abderrahmane Rabeh
 
-### 🌐 Full Stack Developer | MERN | Laravel | React | C Language Learner
+### 🌐 Full Stack Developer | MERN | Laravel | React 
 
 I'm a passionate Full Stack Developer with expertise in creating optimized and user-centered web applications. I love solving complex problems with modern technologies and I am currently expanding my knowledge into C programming!
 
